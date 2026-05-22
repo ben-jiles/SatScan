@@ -19,7 +19,6 @@ class SecurityCheckEngine:
         all_findings = []
         for check in self.checks:
             findings = check.run(packets)
-            # Enrich with SPARTA
             for f in findings:
                 SpartaMapper.enrich_finding(f)
             all_findings.extend(findings)
