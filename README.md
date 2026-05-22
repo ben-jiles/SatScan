@@ -1,6 +1,6 @@
 # SatScan - Intelligent Satellite Cybersecurity Auditor
 
-**AI-Enhanced CCSDS TM/TC Link Security Scanner for Starshield, NRO, and Proliferated LEO Constellations**
+**AI-Enhanced CCSDS TM/TC Link Security Scanner**
 
 ![SatScan Banner](https://via.placeholder.com/800x250/0A2540/FFFFFF?text=SatScan+-+Satellite+Cybersecurity)
 
